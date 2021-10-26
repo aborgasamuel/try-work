@@ -1,0 +1,35 @@
+body{
+    background-color:white;
+}
+h1{
+    text-align: center;
+    color: blue;
+    margin-top: 50px;
+}
+h2{
+    text-align: center;
+    color: green;
+}
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#image_quote{
+    text-align: center;
+    margin-top: 0px;
+}
+h3{
+    text-align: center;
+    margin-top: 20px;
+}
+ul li{
+    text-align: justify;
+}
+#p_quote{
+    margin-left: 50px;
+}
+
+#p_name{
+    margin-left: 50px;
+}
